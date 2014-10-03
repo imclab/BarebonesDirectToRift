@@ -89,7 +89,7 @@
     <OutDir>$(ProjectDir)../../../Bin/Win/VS2013/$(Configuration)/$(PlatformName)/</OutDir>
     <IncludePath>$(VC_IncludePath);$(WindowsSDK_IncludePath);</IncludePath>
     <LibraryPath>$(VC_LibraryPath_x86);$(WindowsSDK_LibraryPath_x86);</LibraryPath>
-    <TargetName>OculusRoomTiny</TargetName>
+    <TargetName>BarebonesDirect</TargetName>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
     <LinkIncremental>false</LinkIncremental>
